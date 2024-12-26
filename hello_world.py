@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-=======
 print("Hello world!")
->>>>>>> int_repo/master
+print("Hello from feature")
